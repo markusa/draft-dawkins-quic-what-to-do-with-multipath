@@ -102,7 +102,7 @@ The IETF QUIC working group has been chartered to produce extensions that would 
 
 After the QUIC working group chairs requested publication for the core QUIC protocol specifications, they scheduled a virtual interim meeting ({{QUIC-interim-20-10}}) to understand the use cases that various groups inside and outside the IETF were envisioning for multipath with QUIC. 
 
-As part of that discussion, it became obvious that people had a variety of ideas about how multiple paths would be used, because they weren't looking at the same use cases. 
+As part of that discussion, it became obvious that people had a variety of ideas about how multiple paths would be used, because they weren't looking at the same use cases.
 
 This document is intended to capture that variety of ideas, to inform further discussion in the working group. 
 
@@ -122,7 +122,7 @@ This document is under development in the Github repository at https://github.co
 
 Substantial discussion of this document should take place on the QUIC working group mailing list (quic@ietf.org). Subscription and archive details are at https://www.ietf.org/mailman/listinfo/quic.
 
-# Multicast Modes of Operation {#intro2sm}
+# Multipath Modes of Operation {#intro2sm}
 
 For the purposes of this document, it's enough to consider two QUIC endpoints (QUIC Host X and QUIC Host Y) with two disjoint paths between them (Access Net A and Access Net B), as shown in {{fig-arch}}.
 
